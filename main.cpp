@@ -99,7 +99,7 @@ string doctorRemark(string partnerX, string partnerY) {
         (partnerX == "SS" && partnerY =="SS") ||
         (partnerX == "SS" && partnerY =="SC") ||
         (partnerX == "SS" && partnerY =="CC") ||
-        (partnerX == "SS" && partnerY =="AS") ||
+        (partnerX == "SS" && partnerY =="AC") ||
 
         (partnerX == "SC" && partnerY =="AS") ||
         (partnerX == "SC" && partnerY =="SS") ||
